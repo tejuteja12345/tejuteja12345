@@ -1,0 +1,9 @@
+$ pwd
+$ mkdir 1IC23AI059
+$ git cofig--global user. name "Tejashree S"
+$ git cofig--global user.email "teju11944@gmail.com"
+$ git init
+$ git checkout -b feature-branch
+$ git fetch origin
+$ git rebase origin/main
+$ git push origin feature-branch
